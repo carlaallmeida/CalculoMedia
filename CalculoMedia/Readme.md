@@ -8,9 +8,9 @@ Esse é um programa que calcula a média no semestre através da inserção de 3
 
 - Função bt_media para entrada dos dados; <br>
 
-- Varivél entrada1 para inserir a  primeira nota;<br>
+- Variavél entrada1 para inserir a  primeira nota;<br>
 
-- Várivel entrada2 para inserir segunda nota; <br>
+- Váriavel entrada2 para inserir segunda nota; <br>
 
 - Variavél Media para o calculo;<br>
 
