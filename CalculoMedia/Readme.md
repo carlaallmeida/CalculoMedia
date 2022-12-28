@@ -1,6 +1,7 @@
 # Calculo da Média
 
-Esse é um programa que calcula a média no semestre através da inserção de 3 notas. O código foi construído usando a linguagem python. <br><br>
+Esse é um programa que calcula a média no semestre através da inserção de 3 notas. O código foi construído usando a linguagem python com o uso da biblioteca usada para criar interfaces gráficas.<br>
+---
 
 
 
